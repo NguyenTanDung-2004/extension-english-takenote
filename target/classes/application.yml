@@ -1,0 +1,14 @@
+json:
+  type: service_account
+  project_id: blockchain-singer-vote
+  private_key_id: bab8eeefb28137ef56ac972077b3caecb1a7f812",
+  private_key: -----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDD1g3J2Cr8GF2Y\nhjRnNKanEA8mriYcBTw0wEHft1O/i0kbW3BxApj8Kr16eN5pdKe+TURFtCE+rdLF\nGsyFxD+wuspKeG1pPKvz3t/zbIXzpY1W5QfAGVQeWyTpm7nW5GK5MUEybhOPTG0Z\nCCySVcXYOSSFndPjx4sze5V9jsIcO8qUvDuxGKjH6GjymxWwyFMnLVjoF+lyv1iJ\nbtNe/kyWg5R5m9H+fLqwtp3XFddI6Mh64pBzh9lvFP05DWE/H9Yoqf96YaC9E7Xc\n0JXwsajafL7CZbF0biKBYZKataGCIkcYwIlL+b0u3M4NZhRkLWhMOuwG5K8w5c/R\ncf2I5ZcFAgMBAAECggEABHVCF5jODyBKugOaqbbup9dv2pLQPllEBH2K7ceStE7z\ng6E8pNw7UD+riuleHn+EXsGeCADlNGrR7mDO+gRu13Mxrg4Y+YSjGCqlyh1+AUg3\nwcnRbtArpsxBJkD3KgQzKY9MhIr7BYILar7If4ne9pLfS0nP8w4EpitXbzziwEKs\nrj7oD6qcTVwItdIUeMbMZbV+SMhsl0zoLAa3ulNNRP0TLVbyUTYuLZ3sAywoIqQ0\nDvn45cuYiMdzTvmtUtPRGQ2Qn6zHMkW2f2ZpNhFMIUWjxVmJF5yLqszKg/FeP8yQ\nn5p+Wp7zlKUX4dbZeUIulTkcJ3uk3gUUUb25CIJ8uQKBgQDwPzsdPTIlRedN3tsQ\n3CLW2o/bAf5h7ZwT9OmKQJaj6vurMw+i63Vu1ztNZ6lPmnwpXdILdLfVtbF4Mqe/\nb/I9jopWE4do70CUKlvvEMGZdTxnl34A6Avl59EKqfPmf0DUAbfE+YVkqQu63OBO\nsRX9P6dkD0ADwKRbduKcN02TbQKBgQDQrVh41vRNQKFsiSZ6T7mWXjjtMpa6mSKM\nqtKCJeUSXXUw+UKPvY6Bvxmt8zjaFMVmQR/pOlHvNBARJPF3fG70pEf0vUwqkgJV\nwBnPepRNliJGBbI6yoz6I8jevTspYo0/NxPnPX+LY9RhLzuMCaVwgeUp3mqwwRqi\naifZfiS6+QKBgQDsS5TN9mG67V1KZvYaSBpwLjotk3FrSjQoIMwO8eX4RWfRBADO\nIj63jTRDtsB9jhmu6htsrxkdNn7eFRyOmwGsb+U6Mi0OFbvzvxH7OgTg9cE6tnL1\nW0ZQk0g07+H3hJPzsdjZAP6leesSmKp6W4ygMJpoPOOejTxaxbyvH2nKpQKBgQCg\nlZUswLYVsPPIMy7yFuIJjg6esjx98hQ9TcNbNlA2tsbVXivTs5qzy9y2GSKZ6DwU\nOW+WKjQdMOJgXx6WxaIZD0b0VqwDYoL7fC4glQMFRdCwM/f4+CBO6jTM+7BIY7ew\nevENFS1Olg88jn1zgYTXtI4mjytpQ+D8NVbfLwyS+QKBgQCHD2n5Qjh3F6MpeN+P\nQprJrQ17JvqR/4ppmxqoWl5NRVaDbN+5Q2Imz7I/TdgPrYrcDn3PT7jgbnFH7Bko\nu/NRD5Z+X0amO2/YT36ZKZmbvq4CgwNQGGa5mhTwZyhFe0csDw4HMVv6ynUc+5xX\nQ4+M7OT7bS+EVSWboDS0Cz8HRg==\n-----END PRIVATE KEY-----\n
+  client_email: english-extension@blockchain-singer-vote.iam.gserviceaccount.com
+  client_id: 107546756197159776359
+  auth_uri: https://accounts.google.com/o/oauth2/auth
+  token_uri: https://oauth2.googleapis.com/token
+  auth_provider_x509_cert_url: https://www.googleapis.com/oauth2/v1/certs
+  client_x509_cert_url: https://www.googleapis.com/robot/v1/metadata/x509/english-extension%40blockchain-singer-vote.iam.gserviceaccount.com
+  universe_domain: googleapis.com
+  scope: full_control
+  aud: https://oauth2.googleapis.com/token
